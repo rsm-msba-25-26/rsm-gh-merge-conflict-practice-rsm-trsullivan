@@ -29,7 +29,7 @@ After `cloning` the assignment you should make two commits:
 
 ---
 
-Your name: <insert-your-name-here> Date: 07-25-2025
+Your name: Trevor Sullivan Date: <insert-the-date-here>
 
 ---
 
